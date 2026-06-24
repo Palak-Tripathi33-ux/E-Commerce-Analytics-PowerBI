@@ -44,7 +44,7 @@ The strategic objectives of this deployment were to diagnose retail operations a
 
 * **Microsoft Excel:** Utilized for source database storage, initial tabular structuring, and schema preparation.
 
-* **DAX (Data Analysis Expressions):** Authored custom analytics measures to compute multi-variable KPIs, Profitability ratios, ADV formulas, and Year-To-Date (YTD) comparisons.
+* **DAX (Data Analysis Expressions):** Authored custom analytics measures to compute multi-variable KPIs, Profitability ratios, AOV formulas, and Year-To-Date (YTD) comparisons.
 
 * **Power Query Editor:** Conducted deep ETL workflows, covering schema type conversions, structural data transformations, text normalization, and attribute standardization.
 
