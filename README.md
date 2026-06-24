@@ -6,7 +6,7 @@ This project features an end-to-end interactive E-Commerce Sales Dashboard engin
 
 The architecture consists of a single-page, fully interactive business intelligence interface that processes 12 months of transaction history. 
 
-It tracks 4 core KPIs—Total Amount (**438K**), Quantity Sold (**6K**), Profit (**37K**), and Average Order Value (**ADV: 121K**)—designed specifically to empower corporate stakeholders to make quick, data-backed operational decisions without navigating complex, raw spreadsheets.
+It tracks 4 core KPIs—Total Amount (**438K**), Quantity Sold (**6K**), Profit (**37K**), and Average Order Value (**AOV: 121K**)—designed specifically to empower corporate stakeholders to make quick, data-backed operational decisions without navigating complex, raw spreadsheets.
 
 ## Business Objective
 
@@ -22,7 +22,7 @@ The strategic objectives of this deployment were to diagnose retail operations a
 
 ## Dashboard Features
 
-* **Executive KPI Cards:** High-visibility metrics displaying Amount (**438K**), Quantity (**6K**), Profit (**37K**), and ADV (**121K**) pinned to the top focal point for instant performance indexing.
+* **Executive KPI Cards:** High-visibility metrics displaying Amount (**438K**), Quantity (**6K**), Profit (**37K**), and AOV (**121K**) pinned to the top focal point for instant performance indexing.
 
 * **Monthly Profit Trajectory Analysis:** A time-series bar chart diagnosing month-by-month margin health, exposing critical profit dips and deficit baselines during the June and July cycles.
 
@@ -86,7 +86,7 @@ The strategic objectives of this deployment were to diagnose retail operations a
 
   * *Resolution:* Configured deep cross-filtering pathways to dissect transaction records concurrently by product type and settlement option, exposing hidden revenue leaks.
   
-* **Average Order Value (ADV) Mathematical Bias:** Calculating ADV using simplistic column averages yielded skewed statistical figures due to varying line quantities.
+* **Average Order Value (AOV) Mathematical Bias:** Calculating ADV using simplistic column averages yielded skewed statistical figures due to varying line quantities.
 
   * *Resolution:* Engineered a robust DAX division measure leveraging unique transaction counters to isolate true operational order value baselines.
   
@@ -114,7 +114,9 @@ The strategic objectives of this deployment were to diagnose retail operations a
 
 ## Conclusion
 
-This portfolio project demonstrates my capacity to ingest raw commercial transactional datasets, manage structural information clean-ups, establish semantic models, and deploy interactive reporting tools that deliver actionable business value. As a BBA student expanding into advanced analytics and operations tracking, this project showcases my ability to blend high-level business administration frameworks with modern data intelligence infrastructure to solve real-world margin challenges.
+This portfolio project demonstrates my capacity to ingest raw commercial transactional datasets, manage structural information clean-ups, establish semantic models, and deploy interactive reporting tools that deliver actionable business value. 
+
+As a BBA student expanding into advanced analytics and operations tracking, this project showcases my ability to blend high-level business administration frameworks with modern data intelligence infrastructure to solve real-world margin challenges.
 
 ***
 
