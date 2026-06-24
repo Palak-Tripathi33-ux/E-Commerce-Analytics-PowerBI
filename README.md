@@ -100,7 +100,7 @@ The strategic objectives of this deployment were to diagnose retail operations a
 
 * Conceived and drafted the entire multi-visual grid structure from an initial blank layout canvas without relying on standard pre-built workspace templates.
 
-* Programmed the custom DAX calculation library, including parameters for Profit Margins, unique order ADV metrics, and conditional filtering variables.
+* Programmed the custom DAX calculation library, including parameters for Profit Margins, unique order AOV metrics, and conditional filtering variables.
 
 * Enforced an intentional corporate visual identity utilizing a dark purple backdrop accented by white content cards to ensure executive-grade readability.
 
