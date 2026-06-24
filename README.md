@@ -86,7 +86,7 @@ The strategic objectives of this deployment were to diagnose retail operations a
 
   * *Resolution:* Configured deep cross-filtering pathways to dissect transaction records concurrently by product type and settlement option, exposing hidden revenue leaks.
   
-* **Average Order Value (AOV) Mathematical Bias:** Calculating ADV using simplistic column averages yielded skewed statistical figures due to varying line quantities.
+* **Average Order Value (AOV) Mathematical Bias:** Calculating AOV using simplistic column averages yielded skewed statistical figures due to varying line quantities.
 
   * *Resolution:* Engineered a robust DAX division measure leveraging unique transaction counters to isolate true operational order value baselines.
   
